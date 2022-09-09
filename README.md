@@ -13,7 +13,7 @@
 <b><h2> :star: Click for Database Script Codes: :point_right: <a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/blob/main/thirtyTwoBit/Database-Script.txt">SCRIPT CODE</a> :point_left: </h2></b>
 ``` Veritabanı Script Kodları İçin Tıklayınız: ```
 ![alt project_images1](![image](https://user-images.githubusercontent.com/101461108/189402324-d77deef2-681f-47a0-a0bd-fc1707de0db7.png)
-)
+
 
 ---
 ## `File Structure` 
