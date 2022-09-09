@@ -65,51 +65,12 @@
  
  ---
   
-  ## ` 📊 ER Diagram with PostgreSQL`
-   ### <a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/PostgreSQL/Database-Script.txt">Click</a> for script codes.
-<p align="center"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/Diagrams/ER-Diagram.jpg?raw=true"></p>
   
----
- 
-  ## ` 📊 Class Diagram`
-   ### <a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/Diagrams/UML%20Class%20Diagram.png?raw=true">Click</a> for view the class diagram.
-<p align="center"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/Diagrams/UML%20Class%20Diagram.png?raw=true"></p>
-  
----
  
   ## ` 🔭 Swagger Screenshots and Endpoints`
  ### <p align="center"> <a href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/"> 🌟 ❗ ↘️ Click on the pictures to test ↙️ ❗ 🌟 </a> </p>
- <p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/rental-cars-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/rental-cars-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/payments-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/payments-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/individual-customers-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/individual-customers-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/corporate-customers-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/corporate-customers-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/colors-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/colors-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/cars-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/cars-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/car-maintenances-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/car-maintenances-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/car-crashes-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/car-crahes-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/brands-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/brands-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/additionals-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/additionals-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/cities-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/cities-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/users-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/users-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/ordered-additionals-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/ordered-additionals-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/invoices-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/invoices-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/customers-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/customers-controller.png?raw=true"></a></p>
-<hr>
-<p align="center"><a target="_blank" href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/credit-cards-controller"><img src="https://github.com/Yuksel-Can/Rent-A-Car-Project/blob/main/project_images/swagger-ss/credit-cards-controller.png?raw=true"></a></p>
+ <p align="center"><a target="_blank" ![SwaggerEkranAlıntısı](https://user-images.githubusercontent.com/101461108/189408066-9629c74c-e607-4324-b0ae-6b5faf81cd05.jpg)
+">
  
 ---
  
