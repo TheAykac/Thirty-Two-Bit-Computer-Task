@@ -1,0 +1,90 @@
+2022-09-04 14:31:26,271 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ThirtyTwoBitApplication using Java 16 on OmerAYKAC with PID 12472 (C:\Users\Omer AYKAC\projects-workspace\thirtyTwoBit\target\classes started by Omer AYKAC in C:\Users\Omer AYKAC\projects-workspace\thirtyTwoBit)
+2022-09-04 14:31:26,274 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+2022-09-04 14:31:26,308 INFO org.springframework.boot.logging.DeferredLog [restartedMain] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-09-04 14:31:26,310 INFO org.springframework.boot.logging.DeferredLog [restartedMain] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-09-04 14:31:27,088 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-04 14:31:27,149 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 50 ms. Found 1 JPA repository interfaces.
+2022-09-04 14:31:27,826 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-09-04 14:31:27,837 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-09-04 14:31:27,837 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2022-09-04 14:31:27,957 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-09-04 14:31:27,957 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 1646 ms
+2022-09-04 14:31:28,111 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-04 14:31:28,181 INFO org.hibernate.Version [restartedMain] HHH000412: Hibernate ORM core version 5.4.32.Final
+2022-09-04 14:31:28,338 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [restartedMain] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-09-04 14:31:28,438 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Starting...
+2022-09-04 14:31:28,808 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-1 - Start completed.
+2022-09-04 14:31:28,823 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-09-04 14:31:29,352 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-04 14:31:29,358 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-04 14:31:29,914 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-04 14:31:30,215 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-09-04 14:31:30,433 WARN com.example.thirtyTwoBit.config.SecurityConfing$SecurityConfig [restartedMain] System Is Started
+2022-09-04 14:31:30,471 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@7d355fbe, org.springframework.security.web.context.SecurityContextPersistenceFilter@1be45ddf, org.springframework.security.web.header.HeaderWriterFilter@2584c13c, org.springframework.security.web.authentication.logout.LogoutFilter@287cc276, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@d87391b, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2b1f6654, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@ed9fc93, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@3139f138, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5a495b1c, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@66efeb5a, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@423d98ed, org.springframework.security.web.session.SessionManagementFilter@5eefea93, org.springframework.security.web.access.ExceptionTranslationFilter@6fa8236e, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@76dba206]
+2022-09-04 14:31:30,564 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-04 14:31:30,821 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ThirtyTwoBitApplication in 4.891 seconds (JVM running for 5.354)
+2022-09-04 14:31:43,486 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-04 14:31:43,486 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-09-04 14:31:43,487 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-09-04 14:33:36,933 WARN com.example.thirtyTwoBit.api.controllers.CustomerControllers [http-nio-8080-exec-1] [deleteCustomerById] The Delete Operation Worked
+2022-09-04 14:33:59,486 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-4] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-09-04 14:33:59,489 INFO com.zaxxer.hikari.HikariDataSource [Thread-4] HikariPool-1 - Shutdown initiated...
+2022-09-04 14:33:59,491 INFO com.zaxxer.hikari.HikariDataSource [Thread-4] HikariPool-1 - Shutdown completed.
+2022-09-04 14:33:59,557 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ThirtyTwoBitApplication using Java 16 on OmerAYKAC with PID 12472 (C:\Users\Omer AYKAC\projects-workspace\thirtyTwoBit\target\classes started by Omer AYKAC in C:\Users\Omer AYKAC\projects-workspace\thirtyTwoBit)
+2022-09-04 14:33:59,557 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+2022-09-04 14:33:59,781 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-04 14:33:59,794 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 12 ms. Found 1 JPA repository interfaces.
+2022-09-04 14:33:59,872 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-09-04 14:33:59,873 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-09-04 14:33:59,873 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2022-09-04 14:33:59,900 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-09-04 14:33:59,900 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 341 ms
+2022-09-04 14:33:59,935 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-04 14:33:59,939 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Starting...
+2022-09-04 14:33:59,980 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-2 - Start completed.
+2022-09-04 14:33:59,980 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-09-04 14:34:00,042 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-04 14:34:00,043 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-04 14:34:00,162 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-04 14:34:00,245 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-09-04 14:34:00,294 WARN com.example.thirtyTwoBit.config.SecurityConfing$SecurityConfig [restartedMain] System Is Started
+2022-09-04 14:34:00,303 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4a02f2e1, org.springframework.security.web.context.SecurityContextPersistenceFilter@7486727f, org.springframework.security.web.header.HeaderWriterFilter@a9a964f, org.springframework.security.web.authentication.logout.LogoutFilter@407ab95f, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@6afcf287, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@2e028baf, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@52ec1448, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@15dcb7a, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@2671ee49, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@78873c26, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@3ff4613c, org.springframework.security.web.session.SessionManagementFilter@15887b72, org.springframework.security.web.access.ExceptionTranslationFilter@3bdd3f11, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@6de002b3]
+2022-09-04 14:34:00,334 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-04 14:34:00,339 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-04 14:34:00,340 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-09-04 14:34:00,341 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-09-04 14:34:00,503 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ThirtyTwoBitApplication in 0.975 seconds (JVM running for 155.037)
+2022-09-04 14:34:00,506 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-09-04 14:34:06,413 WARN com.example.thirtyTwoBit.api.controllers.CustomerControllers [http-nio-8080-exec-10] [getAll] The Get List Operation Worked
+2022-09-04 14:35:19,755 WARN com.example.thirtyTwoBit.api.controllers.CustomerControllers [http-nio-8080-exec-2] [add] The Add Operation Worked
+2022-09-04 14:35:32,516 WARN com.example.thirtyTwoBit.api.controllers.CustomerControllers [http-nio-8080-exec-10] [getAll] The Get List Operation Worked
+2022-09-04 14:37:11,139 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [Thread-7] Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-09-04 14:37:11,140 INFO com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown initiated...
+2022-09-04 14:37:11,141 INFO com.zaxxer.hikari.HikariDataSource [Thread-7] HikariPool-2 - Shutdown completed.
+2022-09-04 14:37:11,202 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ThirtyTwoBitApplication using Java 16 on OmerAYKAC with PID 12472 (C:\Users\Omer AYKAC\projects-workspace\thirtyTwoBit\target\classes started by Omer AYKAC in C:\Users\Omer AYKAC\projects-workspace\thirtyTwoBit)
+2022-09-04 14:37:11,202 INFO org.springframework.boot.SpringApplication [restartedMain] The following profiles are active: dev
+2022-09-04 14:37:11,402 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-09-04 14:37:11,415 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [restartedMain] Finished Spring Data repository scanning in 12 ms. Found 1 JPA repository interfaces.
+2022-09-04 14:37:11,489 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat initialized with port(s): 8080 (http)
+2022-09-04 14:37:11,490 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting service [Tomcat]
+2022-09-04 14:37:11,490 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2022-09-04 14:37:11,516 INFO org.apache.juli.logging.DirectJDKLog [restartedMain] Initializing Spring embedded WebApplicationContext
+2022-09-04 14:37:11,516 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [restartedMain] Root WebApplicationContext: initialization completed in 312 ms
+2022-09-04 14:37:11,544 INFO org.hibernate.jpa.internal.util.LogHelper [restartedMain] HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-09-04 14:37:11,547 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Starting...
+2022-09-04 14:37:11,580 INFO com.zaxxer.hikari.HikariDataSource [restartedMain] HikariPool-3 - Start completed.
+2022-09-04 14:37:11,581 INFO org.hibernate.dialect.Dialect [restartedMain] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-09-04 14:37:11,631 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [restartedMain] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-09-04 14:37:11,631 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [restartedMain] Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-09-04 14:37:11,713 WARN org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [restartedMain] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-09-04 14:37:11,766 INFO org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer [restartedMain] LiveReload server is running on port 35729
+2022-09-04 14:37:11,795 WARN com.example.thirtyTwoBit.config.SecurityConfing$SecurityConfig [restartedMain] System Is Started
+2022-09-04 14:37:11,800 INFO org.springframework.security.web.DefaultSecurityFilterChain [restartedMain] Will secure any request with [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@4260defb, org.springframework.security.web.context.SecurityContextPersistenceFilter@7638ef70, org.springframework.security.web.header.HeaderWriterFilter@1853d1f9, org.springframework.security.web.authentication.logout.LogoutFilter@45b27a6f, org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilter@161baa78, org.springframework.security.web.authentication.ui.DefaultLoginPageGeneratingFilter@387cae10, org.springframework.security.web.authentication.ui.DefaultLogoutPageGeneratingFilter@2009886c, org.springframework.security.web.authentication.www.BasicAuthenticationFilter@59d35b3d, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@78869ec0, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@7e5c5430, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@4afc70e9, org.springframework.security.web.session.SessionManagementFilter@879d3f8, org.springframework.security.web.access.ExceptionTranslationFilter@66cd0fb8, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4cc4db67]
+2022-09-04 14:37:11,813 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [restartedMain] Tomcat started on port(s): 8080 (http) with context path ''
+2022-09-04 14:37:11,884 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ThirtyTwoBitApplication in 0.706 seconds (JVM running for 346.417)
+2022-09-04 14:37:11,885 INFO org.springframework.boot.devtools.autoconfigure.ConditionEvaluationDeltaLoggingListener [restartedMain] Condition evaluation unchanged
+2022-09-04 14:37:29,168 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-09-04 14:37:29,169 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-09-04 14:37:29,170 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-09-04 14:37:31,700 WARN com.example.thirtyTwoBit.api.controllers.CustomerControllers [http-nio-8080-exec-2] [add] The Add Operation Did Not Work
+2022-09-04 14:37:44,180 WARN com.example.thirtyTwoBit.api.controllers.CustomerControllers [http-nio-8080-exec-3] [add] The Add Operation Worked

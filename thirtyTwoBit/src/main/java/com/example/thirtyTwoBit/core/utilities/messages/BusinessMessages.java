@@ -40,5 +40,15 @@ public class BusinessMessages {
 		public static final String GET_LIST_WORKED = "The Get List Operation Worked";
 		public static final String GET_LIST_NOT_WORK = "The Get List Operation Did Not Work";
 		public static final String SYSTEM_STARTED ="System Is Started";
+		public static final String ADD_TO_DATABASE ="Saved New Customer to The Database";
+		public static final String DELETE_FROM_DATABASE ="Deleted From  Database";
+		public static final String ALL_LIST ="Fetching All Customer";
+		public static final String FIRST_NAME_LIST ="Fetching By First Name";
+		public static final String ID_LIST ="Fetching By Customer ID";
+		public static final String PAGED_LIST ="Paged Being Done";
+		public static final String SORT_LIST ="Sorted Being Done";
+		public static final String CHECKING_DB="Database Checking";
+		public static final String CHECKING_PAGE="Page No and Page Size Checking";
+		
 	}
 }

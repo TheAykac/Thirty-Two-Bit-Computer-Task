@@ -6,7 +6,7 @@ import com.example.thirtyTwoBit.core.utilities.BusinessException;
 import com.example.thirtyTwoBit.core.utilities.result.DataResult;
 import com.example.thirtyTwoBit.core.utilities.result.Result;
 import com.example.thirtyTwoBit.entities.concretes.Customer;
-import com.example.thirtyTwoBit.entities.dtos.CustomerListDto;
+import com.example.thirtyTwoBit.entities.dtos.CustomerDto;
 import com.example.thirtyTwoBit.entities.dtos.CustomerPagedDto;
 import com.example.thirtyTwoBit.entities.dtos.CustomerSortedDto;
 import com.example.thirtyTwoBit.requests.customerRequests.CreateCustomerRequest;
@@ -14,6 +14,7 @@ import com.example.thirtyTwoBit.requests.customerRequests.CreateCustomerRequest;
 
 
 public interface CustomerService {
+	//java doc nedir
 
 	Result add(CreateCustomerRequest createCustomerRequest)throws BusinessException;
 	
@@ -23,9 +24,9 @@ public interface CustomerService {
 	
 	DataResult<List<Customer>> getAll()throws BusinessException;
 	
-	DataResult<List<CustomerListDto>> getByFirstName(String firstName) throws BusinessException;
+	DataResult<List<CustomerDto>> getByFirstName(String firstName) throws BusinessException;
 	
-	DataResult<CustomerListDto> getByCustomerId(int customerId) throws BusinessException;
+	DataResult<CustomerDto> getByCustomerId(int customerId) throws BusinessException;
 	
 	DataResult<List<CustomerPagedDto>> getAllPagedCustomer(int pageNo, int pageSize) throws BusinessException;
 	
