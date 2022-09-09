@@ -40,9 +40,9 @@
         <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/dataAccess">DataAccess</a> - The package containing database related operations
             </li>
         <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/entities">Entities</a> - The package in which the assets are kept
-            <ul>
-                
-                <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/entities/concretes">Concretes</a> </li>
+           </li>
+         <ul>                
+              <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/entities/concretes">Concretes</a> </li>
              
              <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/entities/dtos">DTO</a> </li>
             </ul>
