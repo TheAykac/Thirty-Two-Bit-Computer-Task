@@ -44,7 +44,7 @@
          <ul>                
               <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/entities/concretes">Concretes</a> </li>
              
-             <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/entities/dtos">DTO</a> </li>
+<li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/entities/dtos">DTO</a>                       </li>
             </ul>
         </li>
     </ul>
