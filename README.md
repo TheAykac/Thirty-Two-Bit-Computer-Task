@@ -21,39 +21,30 @@
 ### ` 🏗️ N-Layered Architecture`
   
 <ul>
-        <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/api">API</a> - The package that connects with the user
+        <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/api/">API</a> - The package that connects with the user
             <ul>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/api/controllers">Controllers</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/api/models">Models</a> </li>
+                <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/api/controllers">Controllers</a> </li>
+                </ul>
+        </li>
+        <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/business">Business</a> - The package with business rules
+            <ul>
+                <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/business/abstracts">Abstracts</a> </li>
+                <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/business/concretes">Concretes</a> </li>
+                 </ul>
+        </li>
+        <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/core">Core</a> - The package common layer of the project
+            <ul>
+              <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/core/utilities">Utilities</a> </li>
             </ul>
         </li>
-        <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/business">Business</a> - The package with business rules
-            <ul>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/business/abstracts">Abstracts</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/business/adapters/posAdapters">Adapters/PosAdapters</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/business/concretes">Concretes</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/business/constants/messaaages">Constants/Messages</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/business/dtos">Dtos</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/business/outServices">OutServices</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/business/requests">Requests</a> </li>
-            </ul>
-        </li>
-        <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/core">Core</a> - The package common layer of the project
-            <ul>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/core/outServices">OutService</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/core/posServices">PosService</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/core/utilities">Utilities</a> </li>
-            </ul>
-        </li>
-        <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/dataAccess/abstracts">DataAccess</a> - The package containing database related operations
-            <ul>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/dataAccess/abstracts">Abstracts</a> </li>
-            </ul>
-        </li>
+        <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/dataAccess">DataAccess</a> - The package containing database related operations
+            </li>
         <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/entities">Entities</a> - The package in which the assets are kept
             <ul>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/entities/abstracts">Abstracts</a> </li>
-                <li><a href="https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject/entities/concretes">Concretes</a> </li>
+                
+                <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/entities/concretes">Concretes</a> </li>
+             
+             <li><a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit/src/main/java/com/example/thirtyTwoBit/entities/dtos">DTO</a> </li>
             </ul>
         </li>
     </ul>
