@@ -77,14 +77,8 @@
  
 ---
  
-To be continued here
- 
----
- 
- ## ` 🚧 Roadmap`
-See the [open issues](https://github.com/Yuksel-Can/Rent-A-Car-Project/issues) for a list of proposed features (and known issues).
 
----
+ 
  
 ## ` 🤝 Contributing`
 
@@ -108,18 +102,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ` 📧 Contact`
 
-Yüksel Can ÖZDEMİR 
+Ömer Faruk AYKAÇ
 
-E-Mail - [yukselcanozdemir@gmail.com](mailto:yukselcanozdemir@gmail.com)
+E-Mail - [farukomeraykac@gmail.com](mailto:farukomeraykac@gmail.com)
 
-Linkedin - [linkedin.com/Yuksel-Can](https://www.linkedin.com/in/y%C3%BCksel-can-%C3%B6zdemir-1a742b183/)
+Linkedin - [linkedin.com/in/omerfarukaykac](https://www.linkedin.com/in/omerfarukaykac/)
 
-Project Link: [Rent-A-Car-Project](https://github.com/Yuksel-Can/Rent-A-Car-Project/tree/main/rentACarProject/rentACarProject/src/main/java/com/turkcell/rentACarProject)
-
----
-
-## ` 🙏 Acknowledgements`
-
-- [Engin Demiroğ](https://www.linkedin.com/in/engindemirog/)
+Project Link: [https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task)
 
 ---
+
+
