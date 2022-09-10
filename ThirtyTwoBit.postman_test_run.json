@@ -1,0 +1,194 @@
+{
+	"id": "03179adf-6c9d-4191-9e41-3f224a536971",
+	"name": "ThirtyTwoBit",
+	"timestamp": "2022-09-09T16:08:10.084Z",
+	"collection_id": "23036185-ed0ce2ed-e348-4ba8-b3b1-46667394907d",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "52096261-3fed-429b-b2c2-b1fcbe3466ca",
+			"name": "GetAll",
+			"url": "http://localhost:8080/api/customer/getAll",
+			"time": 5,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				5
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "e6be372c-a29a-455e-b577-89b349bc84e8",
+			"name": "GetAllPagedCustomer",
+			"url": "http://localhost:8080/api/customer/getAllPagedCustomer?pageNo=1&pageSize=4",
+			"time": 6,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				6
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f977c93e-0c5c-463a-9d2d-27c64dc68b5d",
+			"name": "GetAllSorted",
+			"url": "http://localhost:8080/api/customer/getAllSortedCustomerFirstName?sort=1",
+			"time": 6,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				6
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "1dbdafc4-753c-42e2-8fe1-c57b08206a63",
+			"name": "GetByCustomerId",
+			"url": "http://localhost:8080/api/customer/getByCustomerId?customerId=30",
+			"time": 5,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				5
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "40b4300e-6570-431c-8ee0-10bdf2e2743c",
+			"name": "GetByFirstName",
+			"url": "http://localhost:8080/api/customer/getByFirstName?firstName=%C3%96mer%20Faruk",
+			"time": 5,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				5
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "e70410e0-77a6-4382-829a-b8dc6770c2fa",
+			"name": "New Request",
+			"url": "http://localhost:8080/api/customer/add?EMail=omraykc09%40gmail.com&firstName=%C3%96mer&lastName=Ayka%C3%A7&password=123456ankara",
+			"time": 5,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				5
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "d8f7bf6b-3503-4c7a-8fe2-d128f0d90f57",
+			"name": "DeleteByCustomerId",
+			"url": "http://localhost:8080/api/customer/deleteCustomerById?customerId=44",
+			"time": 5,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				5
+			],
+			"allTests": [
+				{}
+			]
+		},
+		{
+			"id": "f6959c95-3378-40d7-bb37-d85ff03ecf63",
+			"name": "DeleteCustomer",
+			"url": "http://localhost:8080/api/customer/deleteCustomer?customerId=33&email=muhammedaliclay%40gmail.com&firstName=Ali&lastName=Clay",
+			"time": 7,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				7
+			],
+			"allTests": [
+				{}
+			]
+		}
+	],
+	"count": 1,
+	"totalTime": 44,
+	"collection": {
+		"requests": [
+			{
+				"id": "52096261-3fed-429b-b2c2-b1fcbe3466ca",
+				"method": "GET"
+			},
+			{
+				"id": "e6be372c-a29a-455e-b577-89b349bc84e8",
+				"method": "GET"
+			},
+			{
+				"id": "f977c93e-0c5c-463a-9d2d-27c64dc68b5d",
+				"method": "GET"
+			},
+			{
+				"id": "1dbdafc4-753c-42e2-8fe1-c57b08206a63",
+				"method": "GET"
+			},
+			{
+				"id": "40b4300e-6570-431c-8ee0-10bdf2e2743c",
+				"method": "GET"
+			},
+			{
+				"id": "e70410e0-77a6-4382-829a-b8dc6770c2fa",
+				"method": "POST"
+			},
+			{
+				"id": "d8f7bf6b-3503-4c7a-8fe2-d128f0d90f57",
+				"method": "DELETE"
+			},
+			{
+				"id": "f6959c95-3378-40d7-bb37-d85ff03ecf63",
+				"method": "DELETE"
+			}
+		]
+	}
+}
