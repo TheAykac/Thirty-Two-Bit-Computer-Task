@@ -11,10 +11,10 @@
     <groupId>com.example</groupId>
     <artifactId>thirtyTwoBit</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>northwind</name>
+    <name>thirtyTwoBit</name>
     <description>Spring Boot</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
     </properties>
     <dependencies>
     
