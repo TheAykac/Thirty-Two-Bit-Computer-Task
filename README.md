@@ -6,7 +6,7 @@
  ``` 'Thirty Two Bit Task', Bu proje 32bit Bilgisayar tarafından tarafıma gönderilmiş, Java Spring Framework ile geliştirilmiştir . Araçlar: **Java Spring-Hibernate-ORM-Maven-Spring Boot-AOP-DTO-JPA-RestAPI-JSON-Dev Tools-PostgreSQL**```
 <br/>
 
-<b><h2> :star: Click for Test on Live Server: :point_right: <a href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/">LIVE TEST</a> :point_left: </h2></b>
+
 ``` Canlı Sunucuda Test Etmek İçin Tıklayınız: (Yüklenmesi biraz sürmektedir, yüklenene kadar bekleyiniz) ```
 <b><h2> :star: Click for Backend Codes: :point_right: <a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit">BACKEND CODE </a> :point_left: </h2></b> 
 ``` Backend Kodları İçin Tıklayınız: ```
@@ -68,8 +68,8 @@
 
   
  
-  ## ` 🔭 Swagger Screenshots and Endpoints`
- ### <p align="center"> <a href="https://rent-a-car-project-yuksel-can.herokuapp.com/swagger-ui/index.html#/"> 🌟 ❗ ↘️ Click on the pictures to test ↙️ ❗ 🌟 </a> </p>
+  ## ` 🔭 Swagger Screenshots and Endpoints`  ###
+
  ![SwaggerEkranAlıntısı](https://user-images.githubusercontent.com/101461108/189408343-e662fe38-c28e-4dec-b3de-fd414372c971.jpg)
 
   
