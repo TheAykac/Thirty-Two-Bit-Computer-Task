@@ -7,7 +7,7 @@
 <br/>
 
 
-``` Canlı Sunucuda Test Etmek İçin Tıklayınız: (Yüklenmesi biraz sürmektedir, yüklenene kadar bekleyiniz) ```
+
 <b><h2> :star: Click for Backend Codes: :point_right: <a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/tree/main/thirtyTwoBit">BACKEND CODE </a> :point_left: </h2></b> 
 ``` Backend Kodları İçin Tıklayınız: ```
 <b><h2> :star: Click for Database Script Codes: :point_right: <a href="https://github.com/TheAykac/Thirty-Two-Bit-Computer-Task/blob/main/thirtyTwoBit/Database-Script.txt">SCRIPT CODE</a> :point_left: </h2></b>
